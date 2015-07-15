@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lets RPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_game">Start Game</string>
+    <string name="mainscore">0</string>
+    <string name="countertimer">3</string>
+    <string name="title_activity_game_over">Game Over</string>
+    <string name="HighScore">0</string>
+
+    <string name="btn_finish_dialog_label">Close</string>
+    <string name="dialog_text">Pause</string>
+    <string name="title_activity_pause_dialog">PauseDialog</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
